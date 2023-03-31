@@ -1,5 +1,5 @@
 # Signal-Processor
-<img width="1255" alt="FirstPanel" src="https://user-images.githubusercontent.com/52253824/229042686-6f5287a3-59f3-4c4e-b66f-b35ececed10c.png">
+<img width="1255" alt="FirstPanel" src="https://user-images.githubusercontent.com/52253824/229047618-e6bc4f0a-b82f-4665-b38e-36a2f0dfccfe.png">
 <img width="1255" alt="SecondPanel" src="https://user-images.githubusercontent.com/52253824/229044251-f5550d31-0e02-4326-80d5-7922b0e066ae.png">
 <img width="1254" alt="ThirdPanel" src="https://user-images.githubusercontent.com/52253824/229046050-88f9b5da-cea8-4a8d-a8a1-df0895707ce0.png">
 
